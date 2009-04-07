@@ -1,0 +1,1 @@
+python D:\work\git\rempl\rempl.py %1
